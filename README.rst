@@ -1,7 +1,12 @@
 RailsDev.Vagrant
 ================
 
-This is a kit for setting up a development enviroment for Ruby on Rails in a hosted virtual machine.
+This is a kit for setting up a development enviroment for `Ruby on Rails <http://rubyonrails.org/>`_ in a hosted virtual machine.
+
+To develop with Rails, you need Ruby (an interpreter for the Ruby programming language) plus gems (software libraries) containing the Rails web application development framework.
+
+We need an easy way to switch between Ruby versions. We use RVM to manage Ruby versions and gems because it is popular, well-supported, and full-featured
+
 
 Installation
 ------------
